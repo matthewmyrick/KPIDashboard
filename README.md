@@ -37,7 +37,7 @@ In progress
 
 ## Structure
 **Power Bi Dashboard**
-<br />
+![PowerBIProcessMap](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/images/Power%20BI%20Process%20Map.png)<br />
 <br />
 **Google Analytics Dashboard**
 <br />
