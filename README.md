@@ -23,7 +23,8 @@ In progress
 <br />
 Once the [PowerBI zip file](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/PowerBi.zip) is downloaded navigate your way to PowerBi > Raw Data > Cutsomer Order Data.xlsx. This excel file contains all the data used in the Power BI Dashboard.
 ![PowerBIRawData](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/images/Raw%20Data.PNG)<br />
-To access the Power BI Dashboard go to PowerBi > KPI Dashboard.pbix
+<br />
+To access the Power BI Dashboard go to PowerBi > KPI Dashboard.pbix once the [PowerBI zip file](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/PowerBi.zip) is downlowed<br />
 ![PowerBIDashboard](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/images/Power%20Bi%20Profit%20Dashboard.PNG)
 <br />
 <br />
