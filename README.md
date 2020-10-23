@@ -1,5 +1,5 @@
 # KPIDashboard
-KPIDashboard repository illustrates analytics from sales from a fictional e-commerce retial company. The project has three compenents
+KPIDashboard repository illustrates analytics from sales,expesnses, and margins from a fictional e-commerce retail company. The project has three compenents
 1. Power BI Dashboard 
 2. Google Analytics Dashboard
 3. Ruby on Rails Analytics Dashboard
