@@ -11,3 +11,22 @@ Go to [PowerBi zip file](https://github.com/matthewmyrick/KPIDashboard/blob/main
 <br />
 <br />
 Google Analytics Dashboard
+<br />
+<br />
+Ruby on Rails Dashboard
+
+## Usage
+
+
+
+
+## Structure
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
