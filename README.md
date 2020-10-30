@@ -28,11 +28,13 @@ To access the Power BI Dashboard go to PowerBi > KPI Dashboard.pbix once the [Po
 ![PowerBIDashboard](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/images/Power%20Bi%20Profit%20Dashboard.PNG)
 <br />
 <br />
+
 **Google Analytics Dashboard**
 <br />
-In progress
+There is no installation required.
 <br />
 <br />
+
 **Ruby on Rails Dashboard**
 <br />
 In progress
@@ -40,6 +42,7 @@ In progress
 ## Structure
 **Power Bi Dashboard**
 ![PowerBIProcessMap](https://github.com/matthewmyrick/KPIDashboard/blob/main/PowerBi/images/Power%20BI%20Process%20Map.png)<br />
+<br />
 <br />
 **Google Analytics Dashboard**
 <br />
